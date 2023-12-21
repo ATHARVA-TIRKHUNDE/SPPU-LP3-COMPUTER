@@ -1,2 +1,4 @@
-# SPPU-LP3-Comp
-Design and Analysis of Algorithms (410241), Machine Learning(410242),  Blockchain Technology(410243)
+# SPPU-LP3-COMPUTER
+(410241) Design and Analysis of Algorithms <br>
+(410242) Machine Learning <br>
+(410243) Blockchain Technology <br>
